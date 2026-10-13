@@ -1,0 +1,7 @@
+# Frost client ID - skal aldri committes
+frost_client_id.txt
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+.venv/
